@@ -1,14 +1,14 @@
 <?php
 /**
  * @package     System - WT Eternal admin
- * @version     1.0.0
+ * @version     1.0.1
  * @Author      Sergey Tolkachyov, https://web-tolk.ru
  * @copyright   Copyright (C) 2023 Sergey Tolkachyov
  * @license     GNU/GPL https://www.gnu.org/licenses/gpl-3.0.html
  * @since       1.0.0
  */
 
-namespace Joomla\Plugin\System\Wteternaladmin\Extension\Fields;
+namespace Joomla\Plugin\System\Wteternaladmin\Fields;
 
 defined('_JEXEC') or die;
 

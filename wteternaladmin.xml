@@ -7,7 +7,7 @@
 	<creationDate>December 2023</creationDate>
     <copyright>Sergey Tolkachyov</copyright>
     <license>GNU General Public License v3.0</license>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>PLG_WTETERNALADMIN_DESC</description>
     <namespace path="src">Joomla\Plugin\System\Wteternaladmin</namespace>
     <scriptfile>script.php</scriptfile>
